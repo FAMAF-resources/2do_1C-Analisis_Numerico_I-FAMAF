@@ -1,21 +1,45 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Analisis Numerico - FAMAF - Computacion
 
-> Cuatrimestre
+> 1C
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Curso de Nivelación   | Aprobada     |
+| Análisis Matemático I | Aprobada     |
+| Matematica Discreta I | Aprobada     |
+| Algebra               | Regularizada |
+| Análisis Matemático I | Regularizada |
 
-Es correlativa de:
+## Correlativas para **aprobar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Curso de Nivelación   | Aprobada     |
+| Análisis Matemático I | Aprobada     |
+| Matematica Discreta I | Aprobada     |
+| Algebra               | Aprobada     |
+| Análisis Matemático I | Aprobada     |
+
+## Es correlativa de:
+
+- Ninguna.
 
 ## Clonar el repositorio
 
+> http
+
 ```bash
-git clone <repo-url>
+git clone https://github.com//FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF.git
+```
+
+> ssh
+
+```bash
+git clone git@github.com:/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF.git
 ```
 
 # Contribuciones
@@ -23,6 +47,6 @@ git clone <repo-url>
 Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF"/>
 </a>
