@@ -44,7 +44,9 @@ git clone git@github.com:/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF.git
 
 # Contribuciones
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
+
+Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR)  o comunicarse con los administradores.
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF/graphs/contributors">
