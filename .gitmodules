@@ -1,4 +1,4 @@
-[submodule "ExamenesViejos_AnalisisNumerico_FaMAF"]
+[submodule "ExamenesViejos"]
 	path = ExamenesViejos_AnalisisNumerico_FaMAF
 	url = git@github.com:ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisNumerico_FaMAF.git
 
