@@ -30,25 +30,37 @@
 
 ## Clonar el repositorio
 
-> http
+**https**
 
 ```bash
 git clone https://github.com//FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF.git
 ```
 
-> ssh
+**ssh (recomendado)**
 
 ```bash
 git clone git@github.com:/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF.git
 ```
 
-# Contribuciones
+## Update
+
+```bash
+git pull && git submodule update --init --recursive
+```
+
+# ¿Cómo contribuir?
 
 Este es un proyecto con fines de facilitar el acceso al material para estudio.
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR)  o comunicarse con los administradores.
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
+
+# Nuestra comunidad
+
+[Sobre nosotros](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF"/>
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF" height="50"/>
 </a>
